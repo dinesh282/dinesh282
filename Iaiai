@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+int a,b,c;
+clrscr();
+printf("Enter a,b vlues");
+scanf("%d%d",&a,&b);
+c=a*b;
+printf("Mul values=%d",C);
+getch();
+}
